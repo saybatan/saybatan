@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Semih. I worked on both the defensive and offensive side of cyber security for a while. I'm currently learning Java, HTML and CSS in details. My goal is to be a successful Full Stack Developer. 
+I’m Semih. I worked on both the defensive and offensive side of cyber security for a while. I'm currently learning Java, HTML and CSS in details. My goal is to be a successful Senior Software Developer. 
 
 - 📫 You can reach me via:
 
